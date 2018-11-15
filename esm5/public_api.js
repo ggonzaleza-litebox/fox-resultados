@@ -1,0 +1,8 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes} checked by tsc
+ */
+export { FoxResultadosModule } from './app/modules/fox-resultados/fox-resultados.module';
+export { FoxResultadosComponent } from './app/modules/fox-resultados/fox-resultados.component';
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL2ZveC1yZXN1bHRhZG9zLyIsInNvdXJjZXMiOlsicHVibGljX2FwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7O0FBQUEsT0FBTyxFQUFFLG1CQUFtQixFQUFFLE1BQU0sb0RBQW9ELENBQUE7QUFDeEYsT0FBTyxFQUFFLHNCQUFzQixFQUFFLE1BQU0sdURBQXVELENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgeyBGb3hSZXN1bHRhZG9zTW9kdWxlIH0gZnJvbSAnLi9hcHAvbW9kdWxlcy9mb3gtcmVzdWx0YWRvcy9mb3gtcmVzdWx0YWRvcy5tb2R1bGUnXG5leHBvcnQgeyBGb3hSZXN1bHRhZG9zQ29tcG9uZW50IH0gZnJvbSAnLi9hcHAvbW9kdWxlcy9mb3gtcmVzdWx0YWRvcy9mb3gtcmVzdWx0YWRvcy5jb21wb25lbnQnO1xuIl19
